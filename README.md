@@ -157,4 +157,12 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=suntexyy&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/suntexyy)
 
+
+
+<div align="center">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
