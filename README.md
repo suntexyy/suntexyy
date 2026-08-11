@@ -169,9 +169,10 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
  </div>
 
 
- <p align="center">
-
+<div align="center">
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=33021866)](https://stackoverflow.com/users/33021866/syntxx)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
