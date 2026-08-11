@@ -42,6 +42,7 @@
 
 I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suntexyy&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
 
 <a href="https://github.com/muhammadtalhasami">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
