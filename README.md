@@ -164,5 +164,9 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
  </div>
 
 
+<div align="center">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
