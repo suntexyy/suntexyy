@@ -38,7 +38,7 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code.
+I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and NestJS, and I love turning tricky problems into clean, working code.
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suntexyy&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
