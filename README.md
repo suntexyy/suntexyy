@@ -1,3 +1,8 @@
+
+
+
+
+
 <p align="center"><a href="https://github.com/suntexyy"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
@@ -41,6 +46,10 @@
 
 
 I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code. 
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suntexyy&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suntexyy&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
 
@@ -148,73 +157,29 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suntexyy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=suntexyy&icon=2&color=6)](https://visitcount.itsvg.in)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=suntexyy&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/suntexyy)
 
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+
 
 <div align="center">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 
 <div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
 
-<div align="center">
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=33021866)](https://stackoverflow.com/users/33021866/syntxx)
-
-</div>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
-  
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-
-
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suntexyy&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 ```javascript
 const SUNTEXYY = {
@@ -236,4 +201,14 @@ const SUNTEXYY = {
 
 ```
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
+<div align="center">
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=33021866)](https://stackoverflow.com/users/33021866/syntxx)
+
+</div>
+
+
+
