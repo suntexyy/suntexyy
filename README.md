@@ -65,7 +65,11 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 ![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
 
 
+<div align="center">
+
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 
 
