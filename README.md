@@ -218,6 +218,7 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 ```javascript
 const SUNTEXYY = {
+    OS: ["Windows"],
     languages: {
         highLevel: ["TypeScript", "JavaScript"],
         markup: ["HTML5", "CSS3"]
