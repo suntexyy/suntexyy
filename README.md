@@ -170,7 +170,8 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 
  <p align="center">
-<a href="https://stackoverflow.com/users/182118765/suntexyy?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=182118765&theme=dark">
 
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=33021866)](https://stackoverflow.com/users/33021866/syntxx)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
