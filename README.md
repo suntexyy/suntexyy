@@ -60,6 +60,8 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
+<br><br>
+
 ![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
 
 
