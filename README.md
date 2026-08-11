@@ -154,4 +154,7 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 ---
 [![](https://komarev.com/ghpvc/?username=suntexyy&icon=2&color=6)](https://visitcount.itsvg.in)
 
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=suntexyy&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/suntexyy)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
