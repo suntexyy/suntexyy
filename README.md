@@ -21,22 +21,7 @@
 </div>
 
 
-<a href="https://github.com/muhammadtalhasami">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
 
-<h3 align="center">
- <a href="https://github.com/muhammadtalhasami">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/muhammadtalhasami">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Q U O T E S】 
-
-</h3>
-
-<a href="https://github.com/muhammadtalhasami">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
 
 # 💫 About Me:
 I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code. 
@@ -55,8 +40,36 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suntexyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/muhammadtalhasami">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/muhammadtalhasami">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Q U O T E S】 
+
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+
+
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suntexyy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
