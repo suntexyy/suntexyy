@@ -216,6 +216,22 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suntexyy&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
+```javascript
+const SUNTEXYY = {
+    languages: {
+        highLevel: ["TypeScript", "JavaScript"],
+        markup: ["HTML5", "CSS3"]
+    },
+    programming: {
+        backend: ["Node.js", "Express.js", "NestJS", "Nodemon", "JWT"],
+        frontend: ["React", "Next.js", "React Native", "React Router", "React Hook Form", "React Query", "TailwindCSS"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Prisma"],
+        mobile: ["Expo", "React Native"],
+        devOps: ["Docker", "AWS", "Cloudflare", "Vercel", "Git", "GitHub"],
+        tools: ["Postman", "Swagger", "Prettier", "Trello"]
+    },
+    UI_UX: ["Figma"],
+};
 
-
+```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
