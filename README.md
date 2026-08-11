@@ -20,7 +20,6 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50"/>
 </div>
 
-
 <a href="https://github.com/suntexyy">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
@@ -39,12 +38,9 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-
-I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code. 
-
+I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code.
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suntexyy&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suntexyy&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
 
@@ -57,7 +53,7 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/suntexyy">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿C O N N E C T】 
+   </a> 【﻿C O N N E C T】
 
 </h3>
 
@@ -66,7 +62,7 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 </a>
 <br><br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suntexyy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suntexyy)
 
 <a href="https://github.com/suntexyy">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -111,7 +107,6 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 ![](https://streak-stats.demolab.com/?user=suntexyy&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suntexyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 <a href="https://github.com/suntexyy">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
@@ -121,7 +116,7 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/suntexyy">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Q U O T E S】 
+   </a> 【﻿Q U O T E S】
 
 </h3>
 
@@ -133,69 +128,63 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 ![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
 
-
 <div align="center">
 
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-
-
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-
-![MuhammadTalhasami_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
+<img src="dist/snake.svg" width="100%">
 
 </br></br>
 
-
-
-
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=suntexyy&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/suntexyy)
 
-
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
-
 
 <div align="center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
-
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=suntexyy&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
-
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 ```javascript
 const SUNTEXYY = {
-    OS: ["Windows"],
-    languages: {
-        highLevel: ["TypeScript", "JavaScript"],
-        markup: ["HTML5", "CSS3"]
-    },
-    programming: {
-        backend: ["Node.js", "Express.js", "NestJS", "Nodemon", "JWT"],
-        frontend: ["React", "Next.js", "React Native", "React Router", "React Hook Form", "React Query", "TailwindCSS"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Prisma"],
-        mobile: ["Expo", "React Native"],
-        devOps: ["Docker", "AWS", "Cloudflare", "Vercel", "Git", "GitHub"],
-        tools: ["Postman", "Swagger", "Prettier", "Trello"]
-    },
-    UI_UX: ["Figma"],
+  OS: ["Windows"],
+  languages: {
+    highLevel: ["TypeScript", "JavaScript"],
+    markup: ["HTML5", "CSS3"],
+  },
+  programming: {
+    backend: ["Node.js", "Express.js", "NestJS", "Nodemon", "JWT"],
+    frontend: [
+      "React",
+      "Next.js",
+      "React Native",
+      "React Router",
+      "React Hook Form",
+      "React Query",
+      "TailwindCSS",
+    ],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Prisma"],
+    mobile: ["Expo", "React Native"],
+    devOps: ["Docker", "AWS", "Cloudflare", "Vercel", "Git", "GitHub"],
+    tools: ["Postman", "Swagger", "Prettier", "Trello"],
+  },
+  UI_UX: ["Figma"],
 };
-
 ```
-
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
 
