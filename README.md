@@ -1,9 +1,24 @@
-<p align="center"><a href="https://github.com/mind1a"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/suntexyy"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agoodkind/stats/master/generated/languages.svg?cache=ce9b3c21e861#gh-dark-mode-only" /><img align="top" width="360" alt="GitHub languages" src="https://raw.githubusercontent.com/agoodkind/stats/master/generated/languages.svg?cache=ce9b3c21e861" /></picture>
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+</div>
 
+<br>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50"/>
+</div>
 
 # 💫 About Me:
 I'm a Full Stack Web Developer based in Georgia, passionate about building fast, accessible web apps. I work mainly with React, TypeScript, and Node.js, and I love turning tricky problems into clean, working code. 
