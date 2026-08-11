@@ -69,7 +69,13 @@ I'm a Full Stack Web Developer based in Georgia, passionate about building fast,
 
 
 
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
+
+![MuhammadTalhasami_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
+
+</br></br>
 
 
 
