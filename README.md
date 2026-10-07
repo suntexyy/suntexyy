@@ -193,3 +193,19 @@ const SUNTEXYY = {
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=33021866)](https://stackoverflow.com/users/33021866/syntxx)
 
 </div>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
+<br>
+
+<h3 align="center">
+  🚀 &nbsp; H E R E &nbsp; A R E &nbsp; S O M E &nbsp; O F &nbsp; M Y &nbsp; C O O L &nbsp; P R O J E C T S
+</h3>
+
+<p align="center">
+  <i>Things I've built, experimented with, and brought to life.</i>
+  <br><br>
+  <b>↓ &nbsp; Check out my pinned repositories below &nbsp; ↓</b>
+</p>
+
+<br>
